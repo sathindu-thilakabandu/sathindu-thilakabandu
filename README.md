@@ -9,18 +9,18 @@ I am a **Computer Science Student** at the **Informatics Institute of Technology
 
 ### 🛠️ My Tech Stack & Tools
 **Languages & Frameworks**
-![Java]
-![Python]
-![HTML5]
-![CSS3]
-![SQL]
+[Java]
+ [Python]
+ [HTML5]
+ [CSS3]
+ [SQL]
 
 
 **Tools & Software**
-![IntelliJ IDEA]
-![VS Code]
-![Adobe Premiere Pro]
-![Git]
+[IntelliJ IDEA]
+ [VS Code]
+ [Adobe Premiere Pro]
+ [Git]
 
 ### 📫 How to reach me
 * **LinkedIn:** [www.linkedin.com/in/sathindu-thilakabandu-170748390]
