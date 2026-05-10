@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sathindu! 👋
 
-<!--
-**sathindu-thilakabandu/sathindu-thilakabandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. I'm passionate about building efficient software and exploring the latest trends in mobile technology.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+* 🐍 **Python Automation:** Building bots to streamline daily tasks (like my File Organizer!).
+* ☕ **Java Development:** Developing structured, object-oriented applications and mastering data structures.
+* 🌐 **Web Design:** Creating responsive layouts 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack & Tools
+**Languages & Frameworks**
+![Java]
+![Python]
+![HTML5]
+![CSS3]
+![SQL]
+
+
+**Tools & Software**
+![IntelliJ IDEA]
+![VS Code]
+![Adobe Premiere Pro]
+![Git]
+
+### 📫 How to reach me
+* **LinkedIn:** [www.linkedin.com/in/sathindu-thilakabandu-170748390]
+
