@@ -1,6 +1,6 @@
 # Hi there, I'm Sathindu! 👋
 
-I am a **Computer Science Student** at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. I'm passionate about building efficient software and exploring the latest trends in mobile technology.
+I am a **Computer Science Undergraduate** at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. I'm passionate about building efficient software and exploring the latest trends in mobile technology.
 
 ### 🔭 What I'm working on
 * 🐍 **Python Automation:** Building bots to streamline daily tasks (like my File Organizer!).
